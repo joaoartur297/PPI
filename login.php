@@ -41,7 +41,7 @@
 </body>
  
 <footer>
-<img src="imagens/ondas.PNG"  width="100%" height="5%">
+<img src="imagens/ondaas.PNG"  width="100%" height="50%">
 </footer>
  
 </html>
